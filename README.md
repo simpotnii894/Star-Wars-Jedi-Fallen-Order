@@ -199,3 +199,6 @@ This repository serves as the official landing page for Star Wars Jedi: Fallen O
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Wars Jedi: Fallen Order today!**
+
+---
+**Last updated:** 2026-11-09 15:57:08 UTC
